@@ -1,0 +1,106 @@
+body{ 
+    background-color: rgb(240, 240, 240);
+}
+#main_div{ 
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 300px;
+    margin-right: 180px;
+    border: transparent;
+    border-radius: 50px;
+    box-shadow: black 2px;
+}
+
+#left{
+    width: 50%;
+    background-image: url(./WhatsApp\ Image\ 2024-07-12\ at\ 11.37.47_5d57184d.jpg);
+    border-radius: 10px;
+    
+}
+
+#right{
+    width: 50%;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 120px;
+    
+}
+
+#text{ 
+    margin: 36%;
+    margin-left: 70px;
+    color: white;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#login{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px; 
+    font-weight: bolder;
+}
+
+#txt{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: grey;
+    font-weight: bold;
+}
+
+#head{ 
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+#in{ 
+    height: 33px;
+    width: 300px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+}
+
+#checkbox { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(0, 0, 0);
+    display: inline;
+}
+#text1{ 
+    display: inline;
+    margin-right: 0%;
+    margin-left: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gray;
+    background-color: transparent;
+    border: none;
+}
+#btn{ 
+    background-color: blueviolet;
+    color: white;
+    width: 310px;
+    height: 45px;
+    border: none;
+    border-radius: 3px;
+}
+
+#one { 
+    display: inline;
+    color: gray;
+    font-size: small;
+}
+
+#two{ 
+    display: inline;
+    background-color: transparent;
+    border: none;
+    color: rgb(94, 94, 94);
+    font-weight: bold;
+}
+
